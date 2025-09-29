@@ -2,9 +2,8 @@
 
 **Full-Stack Developer** — construindo aplicações escaláveis e com foco em UX.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<seu-linkedin>)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:<seu@email.com>)
-[![Website](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=white)](https://<seu-usuario>.github.io)
+<!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<seu-linkedin>)-->
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](williannavarro145@gmail.com)
 
 ---
 
@@ -44,10 +43,3 @@ Gosto de transformar ideias em produtos funcionais e bem estruturados, com teste
   <!-- Infra / DevOps -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
-
-
-## 📫 Contato
-- **Email:** <seu@email.com>  
-- **LinkedIn:** https://www.linkedin.com/in/<seu-linkedin>  
-- **Website / Portfolio:** https://<seu-usuario>.github.io
-
