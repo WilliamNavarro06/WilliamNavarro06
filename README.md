@@ -22,7 +22,6 @@ Gosto de transformar ideias em produtos funcionais e bem estruturados, com teste
 
 
 ## 🛠️ Skills & Ferramentas
-## 🛠️ Skills & Ferramentas
 
 <p align="center">
   <!-- Frontend -->
