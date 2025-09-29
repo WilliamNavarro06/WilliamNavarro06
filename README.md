@@ -21,10 +21,9 @@ Gosto de transformar ideias em produtos funcionais e bem estruturados, com teste
 
 ## 🛠️ Skills & Ferramentas
 
-<p align="center" direction="row">
+<p align="center">
   <!-- Frontend -->
-
-  <p>Frontend:</p>
+Frontend:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -32,19 +31,15 @@ Gosto de transformar ideias em produtos funcionais e bem estruturados, com teste
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
 
-  <br>
-  
-  <!-- Backend -->
-  <p>Backend:</p>
+Backend:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
 
-  <br>
   
   <!-- Bancos de dados -->
-  <p>Banco de Dados:</p>
+Banco de Dados:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 
@@ -52,6 +47,6 @@ Gosto de transformar ideias em produtos funcionais e bem estruturados, com teste
   
   <!-- Infra / DevOps -->
 
-  <p>Infra / DevOps:</p>
+Infra / DevOps:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
