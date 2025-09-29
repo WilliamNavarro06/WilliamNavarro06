@@ -1,10 +1,11 @@
-<h1 align="center">👋 Olá, eu sou <Seu Nome></h1>
-<p align="center">Full-Stack Developer · React · Node.js · DevOps básico</p>
+<h1 align="left">👋 Olá, eu sou William</h1>
+<p align="left">Full-Stack Developer · React · Node.js · DevOps básico</p>
+
 
 ---
 
 ## 🚀 Tech Stack
-<p align="center">
+<p align="start">
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
@@ -29,15 +30,3 @@
 
 ---
 
-## 📫 Contato
-<p align="center">
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/seu-usuario">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
