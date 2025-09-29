@@ -10,10 +10,9 @@
 
 ## 🧭 Sobre mim
 Sou desenvolvedor full-stack com experiência em:
-- Frontend: React, Next.js, TypeScript, HTML5, CSS3 (Tailwind, styled-components)
-- Backend: Node.js (Express, Nest), Python (FastAPI), REST, GraphQL
-- Banco de dados: PostgreSQL, MySQL, MongoDB
-- DevOps / Infra: Docker, GitHub Actions, CI/CD, AWS (EC2, S3), Vercel
+- Frontend: React, Next.js, TypeScript, Javascript, HTML5, CSS3
+- Backend: Node.js (Express, Nest), Python (FastAPI), REST
+- Banco de dados: MySQL, MongoDB
 
 Gosto de transformar ideias em produtos funcionais e bem estruturados, com testes e código legível.
 
